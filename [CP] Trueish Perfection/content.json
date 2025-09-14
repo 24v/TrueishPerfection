@@ -1,0 +1,42 @@
+{
+    "Format": "2.8.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [ "SeedShop", "Items" ],
+            "Entries": {
+                "BuyableTruePerfection": {
+                    "Id": "BuyableTruePerfection",
+                    "ItemId": "(BC)280",
+                    "Price": 10000000
+                },
+                "BuyableTruePerfectoin": {
+                    "Id": "BuyableTruePerfectoin",
+                    "ItemId": "{{ModId}}_StatueOfPerfectoin",
+                    "Price": 1
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/BigCraftables",
+            "Entries": {
+                "{{ModId}}_StatueOfPerfectoin": {
+                    "Name": "{{ModId}}_StatueOfPerfectoin",
+                    "DisplayName": "Statue Of True Perfectoin",
+                    "Description": "Close Enough",
+                    "Fragility": 0,
+                    "CanBePlacedOutdoors": true,
+                    "CanBePlacedIndoors": true,
+                    "IsLamp": false,
+                    "ContextTags": null,
+                    "CustomFields": null,
+                    "Price": 1,
+                    "Category": -9,
+                    "SpriteIndex": 280 
+                }
+            }
+        }
+    ]
+}
