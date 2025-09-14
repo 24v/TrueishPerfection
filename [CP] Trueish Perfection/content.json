@@ -6,6 +6,11 @@
             "Target": "Data/Shops",
             "TargetField": [ "SeedShop", "Items" ],
             "Entries": {
+                "BuyablePerfection": {
+                    "Id": "BuyablePerfection",
+                    "ItemId": "(BC)160",
+                    "Price": 100000
+                },
                 "BuyableTruePerfection": {
                     "Id": "BuyableTruePerfection",
                     "ItemId": "(BC)280",
