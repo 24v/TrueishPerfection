@@ -2,7 +2,7 @@
 
 > Money can buy everything. Including True Perfection.
 
-Lets you buy the Statue of True Perfection statue from the Seed Shop.
+Lets you buy the Statue of True Perfection from the Seed Shop.
 
 Unzip [[CP] Trueish Perfection.zip](./[CP]%20Trueish%20Perfection.zip) into your Mods Directory.
 
